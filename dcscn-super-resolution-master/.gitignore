@@ -2,7 +2,6 @@
 **/.DS_Store
 
 # Project
-output/
 graphs/
 batch_data/
 tf_log/
