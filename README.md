@@ -14,3 +14,6 @@ Una vez listo el environment, se puede ejecutar super resolution a traves del no
 - "ImagesHR": Carpeta donde se colocan las imágenes que se les realiza downsampling para despues validar las imagenes procesadas.
 - "ImagesLR": Carpeta donde se ubican las imágenes input que se le dan al modelo, también es la carpeta donde salen los resultados del downsampling.
 - "dcscn-super-resolution-master/outpu": Carpeta donde se ubican los resultados del super resolution para cada escala.
+
+## Extra:
+- "downsampling.ipynb": Notebook utilizado para aplicar multiples metodos de downsampling a nuestros datasets para despues validar nuestros resultados.
